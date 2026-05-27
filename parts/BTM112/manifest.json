@@ -1,0 +1,17 @@
+{
+  "id": "RF_Bluetooth/BTM112:BTM112",
+  "name": "BTM112",
+  "library": "RF_Bluetooth",
+  "file": "RF_Bluetooth.kicad_symdir/BTM112.kicad_sym",
+  "description": "Bluetooth SPP Module, UART, Class 2",
+  "datasheet": "https://www.sparkfun.com/datasheets/Wireless/Bluetooth/BTM112_wATcommands.pdf",
+  "keywords": "Bluetooth BT SPP Module",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-bluetooth@master/parts/BTM112/",
+  "part_path": "parts/BTM112",
+  "symbol_file": "parts/BTM112/BTM112.kicad_sym",
+  "source_library": "RF_Bluetooth.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:06.196Z"
+}

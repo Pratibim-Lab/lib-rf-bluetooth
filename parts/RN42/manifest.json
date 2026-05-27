@@ -1,0 +1,17 @@
+{
+  "id": "RF_Bluetooth/RN42:RN42",
+  "name": "RN42",
+  "library": "RF_Bluetooth",
+  "file": "RF_Bluetooth.kicad_symdir/RN42.kicad_sym",
+  "description": "Class 2 Bluetooth Module with on-board antenna",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/rn-42-ds-v2.32r.pdf",
+  "keywords": "Bluetooth Module",
+  "footprint": "RF_Module:RN42",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-bluetooth@master/parts/RN42/",
+  "part_path": "parts/RN42",
+  "symbol_file": "parts/RN42/RN42.kicad_sym",
+  "source_library": "RF_Bluetooth.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:06.208Z"
+}

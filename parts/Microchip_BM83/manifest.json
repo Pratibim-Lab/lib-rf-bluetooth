@@ -1,0 +1,17 @@
+{
+  "id": "RF_Bluetooth/Microchip_BM83:Microchip_BM83",
+  "name": "Microchip_BM83",
+  "library": "RF_Bluetooth",
+  "file": "RF_Bluetooth.kicad_symdir/Microchip_BM83.kicad_sym",
+  "description": "Microchip BM23 Bluetooth 5.0 Audio Stereo Module, dual-mode, Audio Profiles, 32x15mm",
+  "datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/WSG/ProductDocuments/DataSheets/70005402E.pdf",
+  "keywords": "HFP HSP A2DP SPP AVRCP PBAP",
+  "footprint": "RF_Module:Microchip_BM83",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-bluetooth@master/parts/Microchip_BM83/",
+  "part_path": "parts/Microchip_BM83",
+  "symbol_file": "parts/Microchip_BM83/Microchip_BM83.kicad_sym",
+  "source_library": "RF_Bluetooth.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:06.200Z"
+}

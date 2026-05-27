@@ -1,0 +1,17 @@
+{
+  "id": "RF_Bluetooth/MOD-nRF8001:MOD-nRF8001",
+  "name": "MOD-nRF8001",
+  "library": "RF_Bluetooth",
+  "file": "RF_Bluetooth.kicad_symdir/MOD-nRF8001.kicad_sym",
+  "description": "Bluetooth Low Energy module based on nRF8001 chipset",
+  "datasheet": "https://www.olimex.com/Products/Modules/RF/MOD-nRF8001/",
+  "keywords": "Bluetooth Low Energy nRF8001",
+  "footprint": "RF_Module:MOD-nRF8001",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-bluetooth@master/parts/MOD-nRF8001/",
+  "part_path": "parts/MOD-nRF8001",
+  "symbol_file": "parts/MOD-nRF8001/MOD-nRF8001.kicad_sym",
+  "source_library": "RF_Bluetooth.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:06.202Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "RF_Bluetooth/SPBTLE-RF0:SPBTLE-RF0",
+  "name": "SPBTLE-RF0",
+  "library": "RF_Bluetooth",
+  "file": "RF_Bluetooth.kicad_symdir/SPBTLE-RF0.kicad_sym",
+  "description": "Very Low Power network processor module for BLE v4.1",
+  "datasheet": "http://www.st.com/resource/en/datasheet/spbtle-rf0.pdf",
+  "keywords": "BLE bluetooth module low-power",
+  "footprint": "RF_Module:ST_SPBTLE",
+  "extends": "SPBTLE-RF",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-bluetooth@master/parts/SPBTLE-RF0/",
+  "part_path": "parts/SPBTLE-RF0",
+  "symbol_file": "parts/SPBTLE-RF0/SPBTLE-RF0.kicad_sym",
+  "source_library": "RF_Bluetooth.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:06.217Z"
+}

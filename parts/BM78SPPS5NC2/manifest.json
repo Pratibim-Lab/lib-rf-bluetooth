@@ -1,0 +1,17 @@
+{
+  "id": "RF_Bluetooth/BM78SPPS5NC2:BM78SPPS5NC2",
+  "name": "BM78SPPS5NC2",
+  "library": "RF_Bluetooth",
+  "file": "RF_Bluetooth.kicad_symdir/BM78SPPS5NC2.kicad_sym",
+  "description": "Bluetooth Dual-Mode, UART, Class 2",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/60001380C.pdf",
+  "keywords": "Bluetooth BLE BT GAP SPP SDP RFCOMM L2CAP GATT ATT SMP L2CAP",
+  "footprint": "RF_Module:BM78SPPS5XC2",
+  "extends": "BM78SPPS5MC2",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-bluetooth@master/parts/BM78SPPS5NC2/",
+  "part_path": "parts/BM78SPPS5NC2",
+  "symbol_file": "parts/BM78SPPS5NC2/BM78SPPS5NC2.kicad_sym",
+  "source_library": "RF_Bluetooth.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:06.193Z"
+}

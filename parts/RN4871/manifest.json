@@ -1,0 +1,17 @@
+{
+  "id": "RF_Bluetooth/RN4871:RN4871",
+  "name": "RN4871",
+  "library": "RF_Bluetooth",
+  "file": "RF_Bluetooth.kicad_symdir/RN4871.kicad_sym",
+  "description": "Bluetooth Low Energy 4.2 Module",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/50002489A.pdf",
+  "keywords": "Bluetooth Low Energy 4.2 Module",
+  "footprint": "RF_Module:Microchip_RN4871",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-bluetooth@master/parts/RN4871/",
+  "part_path": "parts/RN4871",
+  "symbol_file": "parts/RN4871/RN4871.kicad_sym",
+  "source_library": "RF_Bluetooth.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:06.213Z"
+}

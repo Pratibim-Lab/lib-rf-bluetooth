@@ -1,0 +1,17 @@
+{
+  "id": "RF_Bluetooth/BL652:BL652",
+  "name": "BL652",
+  "library": "RF_Bluetooth",
+  "file": "RF_Bluetooth.kicad_symdir/BL652.kicad_sym",
+  "description": "Bluetooth module",
+  "datasheet": "http://cdn.lairdtech.com/home/brandworld/files/Datasheet%20-%20BL652.pdf",
+  "keywords": "Bluetooth Nordic nRF52",
+  "footprint": "RF_Module:Laird_BL652",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-bluetooth@master/parts/BL652/",
+  "part_path": "parts/BL652",
+  "symbol_file": "parts/BL652/BL652.kicad_sym",
+  "source_library": "RF_Bluetooth.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:06.188Z"
+}

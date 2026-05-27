@@ -1,0 +1,17 @@
+{
+  "id": "RF_Bluetooth/RN42N:RN42N",
+  "name": "RN42N",
+  "library": "RF_Bluetooth",
+  "file": "RF_Bluetooth.kicad_symdir/RN42N.kicad_sym",
+  "description": "Class 2 Bluetooth Module without antenna",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/rn-42-ds-v2.32r.pdf",
+  "keywords": "Bluetooth Module",
+  "footprint": "RF_Module:RN42N",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-bluetooth@master/parts/RN42N/",
+  "part_path": "parts/RN42N",
+  "symbol_file": "parts/RN42N/RN42N.kicad_sym",
+  "source_library": "RF_Bluetooth.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:06.211Z"
+}
